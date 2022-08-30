@@ -1,0 +1,14 @@
+<html>
+<head>
+
+<style type="text/css">
+p { color: white; }
+body { color: black;
+       background-color: white;}
+</style>
+
+</head>
+<body>
+  <p>This page hurts my retinas!</p>
+</body>
+</html>
